@@ -1,0 +1,19 @@
+{
+  "name": "license-reuseprotective",
+  "version": "0.1.0",
+  "description": "Just a test repo with a reuse-protective \"Parity-6.0.0\" license in `package.json`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettz9/license-reuseprotective.git"
+  },
+  "author": "Brett Zamir <brettz9@yahoo.com> (http://brett-zamir.me/)",
+  "license": "Parity-6.0.0",
+  "bugs": {
+    "url": "https://github.com/brettz9/license-reuseprotective/issues"
+  },
+  "homepage": "https://github.com/brettz9/license-reuseprotective#readme"
+}
